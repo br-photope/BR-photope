@@ -1,0 +1,51 @@
+#logo
+{
+    background-image: url("C:\Users\Shree\Documents\Web_Development\learning\react_learn_cwh\br_photope_2\public\photope_logo.png");
+    background-size: 160px;
+    height: 60px;
+    width: 175px;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+}
+
+#id2
+{
+    border: solid rgb(190, 189, 189);
+    background-color: rgb(206, 204, 204);
+    padding: 7px;
+    padding-top: 15px;
+    border-radius: 3px;
+    border-width: 2px;
+}
+
+.highlight
+{
+    color: black;
+    text-decoration: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgb(245, 245, 245);
+    border: solid rgb(190, 189, 189);
+    border-radius: 3px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-color: rgb(245, 245, 245);
+    padding: 7px;
+    border-width: 2px;
+}
+
+.c1
+{
+    color: black;
+    text-decoration: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgb(230, 229, 229);
+    border: solid rgb(190, 189, 189);
+    border-radius: 3px;
+    border-bottom: none;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding: 7px;
+    border-width: 2px;
+}
