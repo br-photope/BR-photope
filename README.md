@@ -1,15 +1,15 @@
 # React + Vite
 
-## Step-1: clone or download the zip and extract it.
+### Step-1: clone or download the zip and extract it.
 
-## Step-2: Then, run :
+### Step-2: Then, run :
 ```
-            $~ npm i
-            $~ npm run dev
+npm i
+npm run dev
 ```
 After doing the above mentioned steps, you will se a link on command line, press: ctrl + link.
 
-## Thankyou for now!!
+### Thankyou for now!!
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
