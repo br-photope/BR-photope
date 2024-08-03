@@ -1,5 +1,11 @@
 # React + Vite
 
+## Step-1: clone or download the zip.
+
+## Step-2: Then, run :
+            $~ npm i
+            $~ npm init 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
